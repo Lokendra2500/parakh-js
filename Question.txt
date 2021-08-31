@@ -1,0 +1,11 @@
+Question:
+1. 
+// input array ---> [1, 1, 1, 0, 0, 0, 1, 1, .....] length = n
+// 10 <= n <= 1000
+// output array ---> [0, 0, 0, 1, 1, 1, 0, 0, .....]
+
+2.
+find maximum number a = [10, 34, 45, 23, 65, 67, 21];
+
+3.
+find second maximum number a = [10, 34, 45, 23, 65, 67, 21];
